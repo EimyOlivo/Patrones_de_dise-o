@@ -9,7 +9,7 @@ package Adacter_Java;
  *
  * @author Eimy
  */
-public class GuitarraElectrica extends Guitarra{
+public class Teclado extends Piano{
     public void encender(){
         System.out.println("Tocanr");
     }

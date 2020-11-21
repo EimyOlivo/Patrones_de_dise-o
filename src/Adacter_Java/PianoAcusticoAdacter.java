@@ -1,8 +1,8 @@
 
 package Adacter_Java;
 
-public class GuitarraAcusticaAdacter extends Guitarra {
-    GuitarraAcustica acustica = new GuitarraAcustica();
+public class PianoAcusticoAdacter extends Piano {
+    PianoAcustico acustica = new PianoAcustico();
     
     public void encender(){
         acustica.tocar();

@@ -1,7 +1,7 @@
 
 package Adacter_Java;
 
-public class GuitarraAcustica {
+public class PianoAcustico {
     public void tocar(){
         System.err.println("En silencio");
     }
